@@ -7,7 +7,7 @@ excerpt: 'A Memory-Efficient Gradient Computation Scheme using Time Reversibilit
 date: 2025-01-31
 venue: 'ACS Omega'
 paperurl: 'https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c10958'
-bibtexurl: 'http://ymahlau.github.io/files/quantized_inverse_design.bib'
+bibtexurl: 'https://ymahlau.github.io/files/quantized_inverse_design.bib'
 citation: 'Schubert, F., Mahlau, Y., Bethmann, K., Hartmann, F., Caspary, R., Munderloh, M., ... & Rosenhahn, B. (2025). Quantized inverse design for photonic integrated circuits. ACS omega, 10(5), 5080-5086'
 ---
 The inverse design of photonic integrated circuits (PICs) presents distinctive computational challenges, including their large memory requirements. 

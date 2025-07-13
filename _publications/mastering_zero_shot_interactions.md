@@ -7,7 +7,7 @@ excerpt: 'Albatross is an extension of AlphaZero for simultaneous games'
 date: 2024-07-30
 venue: '41st International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/pdf/2402.03136'
-bibtexurl: 'http://ymahlau.github.io/files/a_flexible_framework.bib'
+bibtexurl: 'https://ymahlau.github.io/files/a_flexible_framework.bib'
 citation: 'Mahlau, Y., Schubert, F. & Rosenhahn, B. (2024, July). Mastering zero-shot interactions in cooperative and competitive simultaneous games. In Proceedings of 41st International Conference on Machine Learning (ICML).'
 ---
 The combination of self-play and planning has achieved great successes in sequential games, for instance in Chess and Go. 

@@ -7,7 +7,7 @@ excerpt: 'Inverse Design of 2D/3D Geometries using Multi-Agent Reinforcement Lea
 date: 2025-06-23
 venue: 'Reinforcement Learning Journal'
 paperurl: 'https://arxiv.org/pdf/2506.18627'
-bibtexurl: 'http://ymahlau.github.io/files/a_flexible_framework.bib'
+bibtexurl: 'https://ymahlau.github.io/files/a_flexible_framework.bib'
 citation: 'Mahlau, Y., Schier, M., Reinders, C., Schubert, F., Bügling, M., & Rosenhahn, B. (2025). Multi-Agent Reinforcement Learning for Inverse Design in Photonic Integrated Circuits. arXiv preprint arXiv:2506.18627.'
 ---
 Inverse design of photonic integrated circuits (PICs) has traditionally relied on gradientbased optimization. 

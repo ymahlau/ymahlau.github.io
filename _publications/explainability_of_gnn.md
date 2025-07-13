@@ -7,7 +7,7 @@ excerpt: 'Analysis of the Interpretability of Graph Neural Networks through the 
 date: 2023-07-20
 venue: 'ML Reproducibility Challenge 2022'
 paperurl: 'https://leokayser.github.io/assets/pdf/papers/%5BRe%5D_On_Explainability_of_Graph_Neural_Networks_via_Subgraph_Explorations.pdf'
-bibtexurl: 'http://ymahlau.github.io/files/explainability_of_gnn.bib'
+bibtexurl: 'https://ymahlau.github.io/files/explainability_of_gnn.bib'
 citation: 'Mahlau, Y., Berg, L., & Kayser, L. (2023, July). [Re] On Explainability of Graph Neural Networks via Subgraph Explorations. In ML Reproducibility Challenge 2022.'
 ---
 Yuan et al. claim their proposed method SubgraphX achieves (i) higher fidelity in explaining models for graph‐ and node classification tasks compared to other explanation techniques, namely GNNExplainer. 

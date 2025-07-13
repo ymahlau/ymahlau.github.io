@@ -7,7 +7,7 @@ excerpt: 'Presentation of the open-source framework FDTDX'
 date: 2025-03-19
 venue: 'SPIE'
 paperurl: 'https://arxiv.org/pdf/2412.12360'
-bibtexurl: 'http://ymahlau.github.io/files/a_flexible_framework.bib'
+bibtexurl: 'https://ymahlau.github.io/files/a_flexible_framework.bib'
 citation: 'Mahlau, Y., Schubert, F., Bethmann, K., Caspary, R., Lesina, A. C., Munderloh, M., ... & Rosenhahn, B. (2025, March). A flexible framework for large-scale FDTD simulations: open-source inverse design for 3D nanostructures. In Photonic and Phononic Properties of Engineered Nanostructures XV (Vol. 13377, pp. 40-52). SPIE.'
 ---
 We introduce an efficient open-source python package for the inverse design of three-dimensional photonic nanostructures using the Finite-Difference Time-Domain (FDTD) method. 
