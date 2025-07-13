@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computational Electromagnetic since 2023
+* M.Sc. in Computer Science, Leibniz University Hannover, 2023
+* B.Sc. in Computer Science, Leibniz University Hannover, 2021
+* Highschool Graduation, Gymnasium Soltau, 2017
+
+Honors & Awards
+======
+* Best Graduate in the Academic Year 2022/2023, M.Sc. Computer Science
+* Outstanding Paper Honorable Mention in Reproducibility Challenge 2022
+* Best Graduate in the Academic Year 2022/2023, B.Sc. Computer Science
+* Exceptional Highschool Graduation in Physics and Chemistry
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 April - June: AI Research Scientist Intern at [dSPACE](https://www.dspace.com/)
+  * Duties: Research on Post-Hoc Interpretability of Image Classification Neural Networks for Autonomous Driving
+  * Full-Time Internship
+* 2018 - 2023: Teaching Assistant at Institutes of [Leibniz University Hannover](https://www.uni-hannover.de/)
+  * Duties: Student Supervision, Teaching in Labs
+  * Part-Time
+* 2017 June - September: Communications Executive at [Heidepark Soltau](https://www.heide-park.de/)
+  * Duties: Customer Service
+  * Full-Time
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
