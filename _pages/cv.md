@@ -20,7 +20,7 @@ Honors & Awards
 ======
 * Best Graduate in the Academic Year 2022/2023, M.Sc. Computer Science
 * Outstanding Paper Honorable Mention in Reproducibility Challenge 2022
-* Best Graduate in the Academic Year 2022/2023, B.Sc. Computer Science
+* Best Graduate in the Academic Year 2020/2021, B.Sc. Computer Science
 * Exceptional Highschool Graduation in Physics and Chemistry
 
 Work experience
