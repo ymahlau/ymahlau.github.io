@@ -1,27 +1,22 @@
 ---
 title: 'Multi-Agent Reinforcement Learning for Inverse Design in Photonic Integrated Circuits'
-date: 2024-07-14
-permalink: /posts/2024/07/marl_for_inverse_design/
+date: 2025-07-13
+permalink: /posts/2025/07/marl-for-inverse-design/
 tags:
   - Computational Electromagnetics
   - Reinforcement Learning
   - Topology Optimization
 ---
+<!--more--> 
+<div>
+<iframe src="https://ymahlau.github.io/marl_for_inverse_design/" 
+        width="100%" 
+        height="4100"
+        scrolling="no"
+        style="border: none; overflow: hidden;">
+</iframe>
+</div>
 
-Paper accepted at RLC 2025
-
-<section class="hero is-small is-light">
-  <div class="hero-body">
-    <div class="container">
-    <iframe src="https://ymahlau.github.io/marl_for_inverse_design/" 
-            width="100%" 
-            height="4000"
-            scrolling="no"
-            style="border: none; overflow: hidden;">
-    </iframe>
-    </div>
-  </div>
-</section>
 
 <div style="display: none">
 This is for word count only. Read time is automatically calculated based on word count.
@@ -43,4 +38,3 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 
 Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
 </div>
-
